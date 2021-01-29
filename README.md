@@ -1,4 +1,4 @@
-# Shogi---Eventbrite
+# Ajedrez Japones
 Mi aplicacion esta programada en Java y cuenta con las siguientes funcionalidades de acuerdo a las reglas establecidas del juego:
 
 -Cada pieza tiene una regla de movimiento (Tipo de Movimiento), el jugador no podra hacer movimientos que no sean validos para esa pieza.
