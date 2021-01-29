@@ -1,5 +1,4 @@
 # Shogi---Eventbrite
-Este es mi proyecto para aplicar como Ingeniero Junior en Eventbrite, se trata de un juego de ajedrez japones denominado SHOGI.
 Mi aplicacion esta programada en Java y cuenta con las siguientes funcionalidades de acuerdo a las reglas establecidas del juego:
 
 -Cada pieza tiene una regla de movimiento (Tipo de Movimiento), el jugador no podra hacer movimientos que no sean validos para esa pieza.
